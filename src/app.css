@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+	font-family: 'Luminari';
+	src: local('Luminari Regular'), local('Luminari-Regular'),
+		url('/fonts/Luminari.woff2') format('woff2'), url('/fonts/Luminari.woff') format('woff'),
+		url('/fonts/Luminari.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}
+
+.etno-font {
+	font-family: Luminari, serif;
+}
+.type-font {
+	font-family: 'Roboto Slab Variable', serif;
+}
+
+.fancy-font {
+	font-family: 'Kaisei Decol', sans-serif;
+}

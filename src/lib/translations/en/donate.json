@@ -1,0 +1,14 @@
+{
+	"payment_details": "payment details",
+	"recipient": "Name of the recipient",
+	"swift": "SWIFT bank code",
+	"bank": "bank name",
+	"goals": "our goals",
+	"goals_text": "During the conflict period, the Fund focuses its financial efforts on the following goals:",
+	"goals_text_p1": "Informing the public about Russia's crimes against Ukrainian cultural heritage.",
+	"goals_text_p2": "Evacuation or conservation of museum artifacts for the purpose of their preservation.",
+	"goals_text_p3": "Providing support to Ukrainian museums located in de-occupied regions.",
+	"collected": "Already collected",
+	"destruction": "Destruction",
+	"destruction_text": "The building was damaged during the Russian invasion on March 11, 2022. As a result of enemy shelling, projectile fragments hit the walls and windows of the building. The amount of $15,000 includes restoration of the building. However, the cost is not final - currently another $5,000 is needed for an examination that will determine the full scope of work that needs to be done to restore the building."
+}
